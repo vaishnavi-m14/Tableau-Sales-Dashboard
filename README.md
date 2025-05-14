@@ -21,6 +21,5 @@ Create compelling data visualizations using Tableau, based on the Superstore dat
 - South region shows rapid sales growth
 - Discounts above 20% correlate with negative profit
 
- ##  Visual Explanation Report
-For detailed screenshots and explanations of each chart, please refer to the following file:
+
 
